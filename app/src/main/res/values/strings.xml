@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArtBookKotlin</string>
+    <string name="add_art">add art</string>
+</resources>
